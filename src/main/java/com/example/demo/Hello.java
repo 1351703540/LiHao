@@ -6,6 +6,6 @@ import org.springframework.stereotype.Controller;
 public class Hello {
 
     public  void grt(){
-
+        System.out.println("sadasd");
     }
 }
