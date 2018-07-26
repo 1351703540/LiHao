@@ -10,5 +10,7 @@ public class Hello {
     }
     public  void  eat(){
         System.out.println("sadasd");
+        System.out.println("33333");
+        System.out.println("ddasdh");
     }
 }
