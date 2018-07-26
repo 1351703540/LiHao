@@ -8,4 +8,7 @@ public class Hello {
     public  void grt(){
         System.out.println("sadasd");
     }
+    public  void  eat(){
+        
+    }
 }
