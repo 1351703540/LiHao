@@ -9,6 +9,6 @@ public class Hello {
         System.out.println("sadasd");
     }
     public  void  eat(){
-        
+
     }
 }
