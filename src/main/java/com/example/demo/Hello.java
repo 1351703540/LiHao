@@ -14,6 +14,6 @@ public class Hello {
         System.out.println("ddasdh");
     }
     public void drink(){
-        System.out.println("槟榔加烟法力无边");
+        System.out.println("槟榔加烟法力无边s");
     }
 }
